@@ -6,6 +6,6 @@ PythonでWebアプリ作成できるフレークワークNiceGUIを使ってみ�
 
 #起動  
 ```
-poetry shell  
-python web.py
+poetry install  
+poetry run python web.py
 ```
