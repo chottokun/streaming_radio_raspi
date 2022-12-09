@@ -3,3 +3,7 @@
 
 #概要
 PythonでWebアプリ作成できるフレークワークNiceGUIを使ってみた。  
+
+#起動
+poetry shell
+python web.py
