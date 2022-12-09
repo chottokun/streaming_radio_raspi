@@ -1,9 +1,11 @@
 # streaming_radio_raspi
-ƒ‰ƒYƒpƒC‚Åƒ‰ƒWƒI
+ãƒ©ã‚ºãƒ‘ã‚¤ã§ãƒ©ã‚¸ã‚ª
 
-#ŠT—v
-Python‚ÅWebƒAƒvƒŠì¬‚Å‚«‚éƒtƒŒ[ƒNƒ[ƒNNiceGUI‚ðŽg‚Á‚Ä‚Ý‚½B  
+#æ¦‚è¦
+Pythonã§Webã‚¢ãƒ—ãƒªä½œæˆã§ãã‚‹ãƒ•ãƒ¬ãƒ¼ã‚¯ãƒ¯ãƒ¼ã‚¯NiceGUIã‚’ä½¿ã£ã¦ã¿ãŸã€‚  
 
-#‹N“®
-poetry shell
+#èµ·å‹•  
+```
+poetry shell  
 python web.py
+```
